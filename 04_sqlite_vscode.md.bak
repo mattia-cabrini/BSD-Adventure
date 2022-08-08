@@ -12,5 +12,5 @@ pkg install sqlite
 pkg install vscode 
 ```
 
-Also installed the Go extension for VS Code and the suggested additional components.
+Also installed the Go extenstion for VS Code and the suggested additional components.
 

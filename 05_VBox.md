@@ -78,5 +78,5 @@ I checked again the configuration and moved `/etc/X11/xorg.conf1` to its origina
 
 At present time (see commit data) I didn't check the configuration again and I will not fix it soon.
 
-These steps that I followed can be found at the FreeBSD handbook chapter 22, section 4 ((here)[https://docs.freebsd.org/en/books/handbook/virtualization/#virtualization-guest-virtualbox]).
+These steps that I followed can be found at the FreeBSD handbook chapter 22, section 4 ([here](https://docs.freebsd.org/en/books/handbook/virtualization/#virtualization-guest-virtualbox)).
 
